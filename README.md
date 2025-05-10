@@ -57,14 +57,6 @@ Build a regression model using deep neural networks to predict the **Rating** (1
 
 ---
 
-## 🔧 Requirements
-
-Install libraries using the requirements file:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🚀 How to Run
 
 ### 1- Clone the repo:
